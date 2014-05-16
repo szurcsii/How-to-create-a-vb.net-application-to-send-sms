@@ -80,8 +80,11 @@ Please note that as you test your application, take care of any expenses you may
 **References:**
 
 http://code.msdn.microsoft.com/wpapps/Sending-SMS-Using-PC-COM-3d79e1d7
+
 http://www.codeproject.com/Articles/15299/Send-a-Text-Message-to-a-Cell-Phone-from-a-VB-NET
+
 http://ozekisms.com/index.php?owpn=587&info=send-receive-sms-from-vb-sms-http
+
 http://www.digitalbuzzblog.com/2011-mobile-statistics-stats-facts-marketing-infographic/
 
 **Download link to softwares:**
